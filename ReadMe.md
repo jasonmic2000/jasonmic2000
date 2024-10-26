@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Maxxton Technologies<br>👯 I would love to collaborate on interesting projects<br>🌱 I’m currently building a homelab and learning Astro<br>💬 You can contact me @jasonmic2000 on all social media
+🔭 I’m currently working with Maxxton Technologies<br>👯 I would love to collaborate on interesting projects<br>🌱 I’m currently learning Linux and NextJS 14<br>💬 You can contact me @jasonmic2000 on all social media
 
 
 ## 🌐 Socials:
