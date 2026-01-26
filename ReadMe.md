@@ -1,6 +1,6 @@
 # Jason Michael
 
-**Senior Frontend / Software Engineer**  
+**Senior Fullstack Engineer**  
 Product-focused • React • TypeScript • Frontend-heavy Full Stack
 
 ---
