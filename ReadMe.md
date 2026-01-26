@@ -9,7 +9,7 @@ Product-focused • React • TypeScript • Frontend-heavy Full Stack
 
 I build **product-quality web applications** with a strong focus on clarity, performance, and long-term maintainability.
 
-Most of my experience is in **React and TypeScript**, working on real-world SaaS platforms where frontend complexity is non-trivial — large surfaces, evolving requirements, and trade-offs that matter. I enjoy owning features end-to-end and collaborating closely with product and design to ship things that last.
+Most of my experience is in **React and TypeScript**, working on real-world SaaS platforms where frontend complexity is non-trivial - large surfaces, evolving requirements, and trade-offs that matter. I enjoy owning features end-to-end and collaborating closely with product and design to ship things that last.
 
 ---
 
